@@ -39,7 +39,7 @@ NOTICE: Spamming & content-bombing might be illegal in your country. Use it at y
 
 # See in action!
 
-Watch the video: video.mov
+Watch the video: https://streamable.com/luy82d
 
 ## DISCLAIMER
 
